@@ -34,5 +34,3 @@ Backend da plataforma de recrutamento, desenvolvido em Java com Spring Boot, que
  4. Criar o banco de dados com o script localizado no repositório em "/safira/src/main/resources/scriptSql.txt"
  - <a href="https://github.com/PaulosdOliveira/Safira-Back-End/blob/main/selectAspi/src/main/resources/scriptSql.txt">Script SQL</a>
 
- ### POR ULTIMO É SÓ RODAR O BANCO DE DADOS E O BACK END EM SEGUIDA
-
